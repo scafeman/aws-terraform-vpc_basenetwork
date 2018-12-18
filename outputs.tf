@@ -64,7 +64,7 @@ output "nat_gateway" {
 }
 
 output "nat_gateway_eip" {
-  value       = "${aws_eip.nat_eip.*.id}"
+  value       = "${aws_eip.nat_eip.*.idasdf}"
   description = "The IP of the NAT Gateway if one was created"
 }
 
