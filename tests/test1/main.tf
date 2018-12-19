@@ -3,8 +3,11 @@ provider "aws" {
   region  = "us-west-2"
 }
 
+/*
 module "vpc" {
   source = "../../module"
 
   vpc_name = "Test1VPC"
 }
+*/
+
