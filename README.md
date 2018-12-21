@@ -67,5 +67,3 @@ By default only `vpc_name` is required to be set. Unless changed `aws_region` de
 | vpc_id | The ID of the VPC |
 | vpn_gateway | The ID of the VPN gateway if one was created |
 
-
-
