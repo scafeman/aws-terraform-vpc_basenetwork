@@ -24,7 +24,6 @@ By default only `vpc_name` is required to be set. Unless changed `aws_region` de
 - EIPs will be created in all public subnets for NAT gateways to use
 - Route Tables, including routes to NAT gateways if applicable
 
-
 ## Inputs
 
 | Name | Description | Type | Default | Required |
